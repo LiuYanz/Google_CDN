@@ -1,6 +1,7 @@
 # Google_CDN
 将 Google CDN 替换为国内的。
 很多网站，尤其是国外网站，为了加快网站的速度，都是用了 Google 的 CDN。 但是在天朝，由于某些原因，导致全球最快的 CDN 变成了全球最慢的。
+该插件是将 Google 的 CDN 替换成国内的，加快网站速度！
 
 ### Chrome安装方法（Google被墙了上不去）：
 
